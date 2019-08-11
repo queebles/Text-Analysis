@@ -3,5 +3,6 @@ Text analysis of the entire Alister Hardy Religious Experience Research Centre (
 Data file not included in this repository.
 
 # data dictionary
-Subjects = keywords assigned by the administrators of the archives
-Text = verbatim accounts of individual experiences in the collection
+
+- Subjects: keywords assigned by the administrators of the archives
+- Text: verbatim accounts of individual experiences in the collection
