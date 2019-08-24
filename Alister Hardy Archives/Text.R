@@ -1,4 +1,7 @@
-# Clean text and prepare data for analysis
+### Text Mining and Preparation for Analysis
+### Alister Hardy Religious Experience Research Centre Archive
+### in part adapted from Gaston Sanchez in his work with sentiment analysis 
+### of Twitter data.
 
 library(hunspell)
 library(qdap)
